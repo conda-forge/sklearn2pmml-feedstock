@@ -1,5 +1,5 @@
 {% set name = "sklearn2pmml" %}
-{% set version = "0.71.0" %}
+{% set version = "0.71.1" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/sklearn2pmml-{{ version }}.tar.gz
-  sha256: 15c6ade3d209b46fd7a517095474800ea2e2921fca3fd13f9ce975221b7e042b
+  sha256: aa2ae09074f11f2f201dfe022e71b4210c1f6c964bb32180cbdca31c4deca849
 
 build:
   number: 0
