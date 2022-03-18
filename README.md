@@ -5,7 +5,7 @@ Home: https://github.com/jpmml/sklearn2pmml
 
 Package license: AGPL-3.0-only
 
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/sklearn2pmml-feedstock/blob/master/LICENSE.txt)
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/sklearn2pmml-feedstock/blob/main/LICENSE.txt)
 
 Summary: Python library for converting Scikit-Learn pipelines to PMML
 
@@ -15,8 +15,8 @@ Current build status
 
 <table><tr><td>All platforms:</td>
     <td>
-      <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=11364&branchName=master">
-        <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/sklearn2pmml-feedstock?branchName=master">
+      <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=11364&branchName=main">
+        <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/sklearn2pmml-feedstock?branchName=main">
       </a>
     </td>
   </tr>
